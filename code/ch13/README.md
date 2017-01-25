@@ -17,7 +17,17 @@ Python Machine Learning - Code Examples
 - Training neural networks efficiently using Keras
 - Summary
 
+## Install Theano
+
+Li-Yi Wei, 2017
+
+With anaconda installed, you can just follow the instructions from [here](http://deeplearning.net/software/theano/install_windows.html)
+
+    $ conda install mingw libpython
+
 ## Install Theano with g++ under 64-bit Windows
+
+2017 update: try this only if the above does not work for you.
 
 Li-Yi Wei, 2016
 
