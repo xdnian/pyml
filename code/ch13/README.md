@@ -25,6 +25,7 @@ With anaconda installed, you can just follow the instructions from [here](http:/
 
     $ conda install mingw libpython
 
+<!--
 ## Install Theano with g++ under 64-bit Windows
 
 2017 update: try this only if the above does not work for you.
@@ -76,6 +77,7 @@ Then run these commands:
 
     import theano  
     theano.test()
+-->
 
 ## Install Keras
 
